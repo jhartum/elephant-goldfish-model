@@ -1,0 +1,9 @@
+{
+  "name": "egm-pi",
+  "version": "0.1.0",
+  "description": "The Elephant-Goldfish Model skills for Pi. Draft specs with context, review them with fresh-context subagents.",
+  "license": "Apache-2.0",
+  "keywords": [
+    "pi-package"
+  ]
+}
